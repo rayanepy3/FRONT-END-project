@@ -1,2 +1,4 @@
 # FRONT-END-project
-coder en HTML5 CSS3
+J’ai appris à coder en HTML5 et CSS3 et, au fil du temps, j’ai acquis les compétences nécessaires pour devenir intégrateur web.
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
