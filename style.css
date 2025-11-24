@@ -335,5 +335,23 @@ label {
   margin-bottom: 20px;
   text-align: center;
   color: #F9F8FF;
+
 }
+
+@media screen and (max-width: 600px) {
+    form {
+        width: 90%;
+        padding: 10px;
+    }
+    
+    input, textarea {
+        width: 100%;
+        max-width: none;
+    }
+    body {
+        padding: 10px;
+    }
+    
+}
+
 
